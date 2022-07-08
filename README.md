@@ -37,7 +37,7 @@ You can adjust the threshold parameter in test.py to different values to adjust 
 
 Datasets Recommended: Real life violence situation dataset(source:Kaggle), Avenue Dataset for Anomaly Detection.
 
-#Links for datasets
+# Links for datasets
 Real life violence situation dataset(source:Kaggle):
 https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 Avenue Dataset for Anomaly Detection:
