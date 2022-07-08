@@ -36,3 +36,9 @@ Run start_live_feed.py to test the model on live webcam feed.
 You can adjust the threshold parameter in test.py to different values to adjust sensitivity.
 
 Datasets Recommended: Real life violence situation dataset(source:Kaggle), Avenue Dataset for Anomaly Detection.
+
+#Links for datasets
+Real life violence situation dataset(source:Kaggle):
+https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+Avenue Dataset for Anomaly Detection:
+http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
